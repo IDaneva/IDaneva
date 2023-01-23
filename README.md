@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ivana Daneva
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, HTML & CSS
 - 📫 How to reach me:
 
      Email: daneva.ivana@gmail.com
