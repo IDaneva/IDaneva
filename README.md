@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Ivana Daneva
-- 🌱 I’m currently learning Python, HTML & CSS
+- Software Developer Intern @Commerzbank DTC
+- 🌱 Currently working with IBM BPM / BAW
 - 📫 How to reach me:
 
      Email: daneva.ivana@gmail.com
